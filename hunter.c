@@ -12,6 +12,8 @@ printf("ARMY IS FOR THOSE WHO IS DEDICATELY WANT TO SERVE THE NATION SO JOIN WHE
 printf("ARMY IS FOR THOSE WHO IS DEDICATELY WANT TO SERVE THE NATION SO JOIN WHEN IF YOU ARE READY want to work tirelessly ");//encouragement
 printf("lorem50"); 
 printf("lorem50 series is worst series that i have watched till now ");
+printf(" there are so many things in you that i really like ");
 return 0;
+
  
 }       
