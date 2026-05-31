@@ -10,6 +10,7 @@ printf("i will never leave you alone");//commitment
 printf("i will always be there for you");//commitment
 printf("ARMY IS FOR THOSE WHO IS DEDICATELY WANT TO SERVE THE NATION SO JOIN WHEN IF YOU ARE READY ");//encouragement
 printf("ARMY IS FOR THOSE WHO IS DEDICATELY WANT TO SERVE THE NATION SO JOIN WHEN IF YOU ARE READY want to work tirelessly ");//encouragement
- return 0;
- printf("lorem50");
+printf("lorem50"); 
+return 0;
+ 
 }       
